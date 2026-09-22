@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.idea/
+.vscode/
+output/
+tmp/
+*.mp4
+*.mp3
+.DS_Store
